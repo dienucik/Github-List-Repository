@@ -39,7 +39,7 @@ export const ButtonSearch = styled.TouchableOpacity `
     height: 45px;
     width: 20%;
     margin: 0px 0px 0px 5px;
-    background-color: #209400;
+    background-color: #3eba1c;
     border-radius: 8px;
     align-items: center;
     justify-content: center;`
